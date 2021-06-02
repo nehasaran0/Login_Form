@@ -1,0 +1,60 @@
+
+
+
+
+/*-------------------------form---------------------------*/
+
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main_div{
+  height: 550px;
+  width: 500px;
+  background-color: rgb(226, 150, 150);
+  margin-left: 400px;
+  margin-top: 30px;
+  box-shadow: 4px 4px 4px 4px rgb(192, 94, 94);
+}
+
+
+h1{
+  color: rgb(66, 128, 209);
+  font-family:cursive;
+  padding: 5px;
+  text-align: center;
+}
+label{
+  font-size: 20px;
+  padding:15px ;
+  font-family: cursive;
+ 
+}
+
+input{
+  font-size: 25px;
+  margin: 15px;
+}
+
+textarea{
+  margin: 20px;
+}
+
+.submit{
+  margin-left: 220px ;
+  
+  font-size: 35px;
+  color: azure;
+  font-family: cursive;
+  background-color: rgb(20, 123, 220);
+  border-radius: 15px;
+  box-shadow: 4px 4px rgb(192, 94, 94);
+}
+
+body{
+  background-color: chartreuse;
+}
